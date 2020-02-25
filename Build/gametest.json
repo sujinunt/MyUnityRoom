@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Test01",
+"productVersion": "0.1",
+"dataUrl": "gametest.data.unityweb",
+"wasmCodeUrl": "gametest.wasm.code.unityweb",
+"wasmFrameworkUrl": "gametest.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
